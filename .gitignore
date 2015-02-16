@@ -4,3 +4,7 @@
 dump
 packages/schnie:vulcanize/
 public/components
+public/fonts
+public/icons
+public/img
+public/favicon.ico
